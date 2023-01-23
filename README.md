@@ -4,8 +4,7 @@ I'm Taha. I'm a medical doctor with an interest in health data science and machi
 
 I'm currently learning machine learning techniques using Python and associated packages. I'm keen to develop additional skills, with particular application to image processing in healthcare. 
 
-Find me on Linkedin here: [![LinkedIn](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.vectorlogo.zone%2Flogos%2Flinkedin%2Findex.html&psig=AOvVaw1P27UnG0ts2zfyIxaf4a-5&ust=1674520291529000&source=images&cd=vfe&ved=0CA8QjRxqFwoTCMDgsqu43PwCFQAAAAAdAAAAABAE)(https://www.linkedin.com/in/taha-shiwani-745282132/)]
-
+Find me on Linkedin here: ![alt text](file:///Users/Taha/Desktop/linkedin-tile.svg)
 
 <!--
 **THShiwani/THShiwani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
