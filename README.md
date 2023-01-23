@@ -2,7 +2,7 @@
 
 I'm Taha. I'm a medical doctor with an interest in health data science and machine learning.
 
-I'm currently learning machine learning techniques using Python and associated packages. I'm keen to develop additional skills, with particular application to AI in healthcare. 
+I'm currently learning machine learning techniques using Python and associated packages. I'm keen to develop additional skills, with particular interest in AI in healthcare. 
 
 Find me on Linkedin here: [Taha Shiwani](https://www.linkedin.com/in/taha-shiwani-745282132/)
 
